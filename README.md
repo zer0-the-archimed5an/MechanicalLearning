@@ -1,4 +1,4 @@
-# MechanicalLearning
+# Mechanical Learning
 The Emergence of Behavior
 
 
